@@ -19,7 +19,7 @@ namespace Exe2
 
         private void Form4_Load(object sender, EventArgs e)
         {
-            // TODO: This line of code loads data into the 'prodiTIDataSet.Mahasiswa' table. You can move, or remove it, as needed.
+            // TODO: This line of code loads data into the 'prodiTIDataSet.Mahasiswa' table. You can move, or remove it, as needed..
             this.mahasiswaTableAdapter.Fill(this.prodiTIDataSet.Mahasiswa);
 
         }
